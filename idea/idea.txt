@@ -1,0 +1,5 @@
+row objects
+block objects
+use numbers as block identifiers
+row objects inside game area object
+block objects can be discarded after locking
